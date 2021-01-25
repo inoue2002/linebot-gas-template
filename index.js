@@ -1,6 +1,4 @@
-// @ts-nocheck
-// LINE developersのメッセージ送受信設定に記載のアクセストークン
-var ACCESS_TOKEN =
+const ACCESS_TOKEN =
   "<アクセストークンを記入する>";
 async function doPost(e) {
   for (let i = 0; i < JSON.parse(e.postData.contents).events.length; i++) {
