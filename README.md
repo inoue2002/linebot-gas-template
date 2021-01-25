@@ -1,2 +1,4 @@
 # linebot-gas-template
 GASでLINEBotをつくりたい時にコピペしよう
+
+一行目のアクセストークンはLINEのDeveloperCondoleから取得できるよ！
